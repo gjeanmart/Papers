@@ -1,6 +1,6 @@
 # Papers
 
-A set of usefull markdown documents ...
+A set of useful markdown documents ...
 
 ## Decentralization
 
